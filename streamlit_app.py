@@ -6,8 +6,7 @@ st.title("Groq Test Bed")
 st.write(
     "Let's start..."
 )
-hmm = os.environ.get['GROQ_API_KEY']
-st.write(hmm)
+
 
 
 def groqit(uprompt:str) -> str: 
