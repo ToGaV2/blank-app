@@ -1,11 +1,14 @@
 # 🎈 Simple Groq Chat LLM Implementation with LLaMa 3.1
 
 Ever wanted to build a super fast chat engine inside a  python streamlit? 
+ 
+Here is a good example. 
+- You'll just need a login at Groq, where you can get an API Key.
+- Load the API key into the toml as instructed in step 2.
+- Load the software as instructed in step 1.
+Enjoy!
 
-Here is a good example. You'll just need a login at Groq, where you can get an API Key. Load the API key into the toml as instructed in step 2.
-
-
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+[![Open now in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
 
 ### How to run it on your own machine
 
