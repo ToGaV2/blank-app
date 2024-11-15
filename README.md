@@ -6,7 +6,7 @@ Here is a good example.
 - You'll just need a login at Groq, where you can get an API Key.
 - Load the API key into the toml as instructed in step 2.
 - Load the software as instructed in step 1.
-Enjoy!
+- Run the program. Enjoy!
 
 [![Open now in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
 
