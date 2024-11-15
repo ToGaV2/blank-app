@@ -1,6 +1,9 @@
-# 🎈 Blank app template
+# 🎈 Simple Groq Chat LLM Implementation with LLaMa 3.1
 
-A simple Streamlit app template for you to modify!
+Ever wanted to build a super fast chat engine inside a  python streamlit? 
+
+Here is a good example. You'll just need a login at Groq, where you can get an API Key. Load the API key into the toml as instructed in step 2.
+
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
 
